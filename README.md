@@ -16,4 +16,4 @@ mysql> select count(*) from alodokter;
 1 row in set (0,01 sec)
 ```
 
-Donate, [Paypal](https://www.paypal.me/Rulli)
+Donate, [Paypal](https://www.paypal.me/Jihantoro)
